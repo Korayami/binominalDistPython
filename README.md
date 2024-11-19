@@ -1,4 +1,4 @@
-# Binominal Distribution Python App
+# Binominal Distribution Python App - Work in progress
 ## A simple application to find different values of Binominal Distribution and statistics
 
 Features:
