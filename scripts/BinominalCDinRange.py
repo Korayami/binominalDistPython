@@ -16,7 +16,7 @@ def binominal_cd(a, b, n, p):
         raise ValueError("max cannot be greater than n")
     
     c_prob = 0
-    for i in range(a+1, b+1):
+    for i in range(a, b+1):
 
         combs = math.comb(n, i)
 
